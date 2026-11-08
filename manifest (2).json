@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "YBX (Vibe X - Feel The Vibe) is a complete full-featured Facebook clone with News Feed, Reactions, Stories, Reels, Real-time Messenger, Friends, Groups, Pages, Search, and Admin Panel.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "vibex",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "vibex",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "vibe-x"
+}
